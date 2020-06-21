@@ -1,0 +1,55 @@
+#!/usr/bin/env sh
+alias ka="killall" \
+  mute="ponymix mute" \
+  unmute="ponymix unmute" \
+  pvpnz="sudo protonvpn --cc fi c" \
+  pvpns="sudo protonvpn d" \
+  pof="sudo shutdown -h now" \
+  res="sudo reboot" \
+	mkd="mkdir -pv" \
+	mpv="mpv --input-ipc-server=/tmp/mpvsoc$(date +%s)" \
+	calcurse="calcurse -D ~/.config/calcurse" \
+	magit="nvim -c MagitOnly" \
+	p="sudo pacman" \
+ 	pa="pacaur" \
+  ll="ls -al" \
+  zz="sudo /home/bane/lazy_bins/ziggurat/bin/zeppelin-daemon.sh start" \
+  zs="sudo /home/bane/lazy_bins/ziggurat/bin/zeppelin-daemon.sh stop" \
+  id="/home/bane/lazy_bins/id/bin/idea.sh" \
+  dg="/home/bane/lazy_bins/dg/bin/datagrip.sh" \
+  patches="nvim $HOME/projects/tmp/table_patches.dat" \
+  awsi="cd $HOME/builds/vpn/aws && sudo openvpn degterev-awsuchi.ovpn" \
+  uchi="cd $HOME/builds/vpn/uchi && sudo openvpn degterev-uchi.ovpn" \
+  awsbi="cd $HOME/builds/vpn/degterev-awsbi && sudo openvpn degterev-awsbi.ovpn" \
+  wms="cd /home/bane/projects/uchi/bi-infra/ssh && \
+      ssh -i analytics.pem analytics@workstation05-awsbi.runit.cc " \
+  wm="analytics@workstation05-awsbi.runit.cc" \
+  scpi="scp -i /home/bane/projects/uchi/bi-infra/ssh/analytics.pem" \
+  pmd="ponymix decrease 15"\
+  pmi="ponymix increase 15"\
+	jn="jupyter notebook" \
+	pi="pip install" \
+	SS="sudo systemctl" \
+	f="$FILE" \
+	g="git" \
+	trem="transmission-remote" \
+	e="$EDITOR" \
+	v="$EDITOR" \
+	x="sxiv -ft *" \
+	sdn="sudo shutdown -h now" \
+	gua="git remote | xargs -L1 git push --all" \
+	ls="ls -hN --color=auto --group-directories-first" \
+	grep="grep --color=auto" \
+	diff="diff --color=auto" \
+	ccat="highlight --out-format=ansi" \
+	yt="youtube-dl --add-metadata -i -o '%(upload_date)s-%(title)s.%(ext)s'" \
+	yta="yt -x -f bestaudio/best" \
+	YT="youtube-viewer" \
+	ref="shortcuts >/dev/null; source ~/.config/shortcutrc" \
+	upc="sudo pacman -Syu; pkill -RTMIN+8 i3blocks" \
+	lsp="pacman -Qett --color=always | less" \
+	ffmpeg="ffmpeg -hide_banner"
+
+command -v nvim >/dev/null && alias vim="nvim" vimdiff="nvim -d" # Use neovim for vim if present.
+
+vf() { fzf | xargs -r -I % $EDITOR % ;}

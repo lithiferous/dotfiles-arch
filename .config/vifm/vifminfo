@@ -1,0 +1,620 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'k
+	/home/bane
+	ziggurat
+1590597325
+'m
+	/home/bane
+	ziggurat
+1590597323
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/bane/builds/vpn/degterev-awsbi
+	..
+0
+d/home/bane/projects/fun
+	dota_bot
+2
+d/home/bane/projects/fun/dota_bot
+	swarmpit
+3
+d/home/bane/projects/fun/dota_bot/swarmpit
+	..
+0
+d/home/bane/projects/fun/dota_bot
+	swarmpit
+3
+d/home/bane/projects/fun/dota_bets
+	..
+0
+d/home/bane
+	media
+9
+d/home/bane/media
+	screens
+6
+d/home/bane
+	projects
+10
+d/home/bane/projects
+	fun
+3
+d/home/bane/projects/fun
+	dota_bot
+2
+d/home/bane/projects/fun/dota_bot
+	swarmpit
+2
+d/home/bane/projects/fun/dota_bot/swarmpit
+	docker-compose.yml
+10
+d/home/bane/projects/fun/dota_bets
+	..
+0
+d/home/bane/projects/fun
+	dota_bot
+2
+d/home/bane/projects/fun/dota_bot
+	src
+2
+d/home/bane/projects/fun/dota_bot/src
+	.gitignore
+3
+d/home/bane/projects/fun/dota_bot
+	src
+2
+d/home/bane
+	projects
+10
+d/home
+	bane
+1
+d/
+	etc
+4
+d/etc
+	docker
+22
+d/etc/docker
+	key.json
+1
+d/etc
+	docker
+22
+d/
+	var
+19
+d/var
+	..
+0
+d/
+	var
+19
+d/var
+	cache
+1
+d/var/cache
+	..
+0
+d/var
+	local
+6
+d/var/local
+	..
+0
+d/var
+	lock
+7
+d/var/lock
+	..
+0
+d/var
+	mail
+9
+d/var/mail
+	..
+0
+d/var
+	run
+11
+d/var/run
+	docker
+4
+d/home/bane
+	projects
+10
+d/home/bane/projects
+	fun
+3
+d/home/bane/projects/fun
+	dota_bot
+2
+d/home/bane/projects/fun/dota_bot
+	src
+1
+d/home/bane/projects/fun
+	dota_bot
+2
+d/home/bane/projects/fun/dota_bot
+	src
+1
+d/home/bane/projects/fun
+	dota_bets
+1
+d/home/bane/projects/fun/dota_bets
+	src
+1
+d/home/bane/projects/fun/dota_bets/src
+	docker-compose.yml
+3
+d/home/bane
+	projects
+10
+d/home/bane/projects
+	fun
+3
+d/home/bane/projects/fun
+	dota_bets
+1
+d/home/bane/projects/fun/dota_bets
+	src
+1
+d/home/bane/projects/fun/dota_bets/src
+	docker-compose.yml
+3
+d/home/bane
+	projects
+10
+d/home/bane/projects
+	fun
+3
+d/home/bane/projects/fun
+	dota_bets
+1
+d/home/bane/projects/fun/dota_bets
+	src
+1
+d/home/bane
+	projects
+10
+d/home/bane/projects
+	fun
+3
+d/home/bane/projects/fun
+	dota_bets
+1
+d/home/bane/projects
+	outdated
+6
+d/home/bane/projects/outdated
+	tmp
+5
+d/home/bane/projects
+	outdated
+6
+d/home/bane
+	media
+9
+d/home/bane/media
+	books
+1
+d/home/bane/media/books
+	book.pdf
+2
+d/home/bane
+	projects
+10
+d/home/bane/projects
+	alasca
+1
+d/home/bane/projects/alasca
+	..
+0
+d/home/bane/downloads
+	..
+0
+d/home/bane
+	downloads
+6
+d/home
+	bane
+1
+d/home/bane
+	downloads
+6
+d/home/bane/downloads
+	diploma_compressed.pdf
+5
+d/home/bane
+	documents
+28
+d/home/bane/builds/dwm
+	LICENSE
+1
+d/home/bane/builds
+	dwm
+2
+
+# Right window history (oldest to newest):
+D/home/bane
+	anaconda3
+2
+D/home/bane/projects/work/tableau_airflow
+	..
+0
+D/home/bane/projects/work
+	tableau_airflow
+7
+D/home/bane/projects
+	work
+7
+D/home/bane/projects/work
+	own_pr
+5
+D/home/bane/projects
+	outdated
+6
+D/home/bane
+	documents
+5
+D/home
+	bane
+1
+D/
+	mnt
+9
+D/mnt
+	..
+0
+D/
+	opt
+10
+D/opt
+	apache-spark
+1
+D/opt/apache-spark
+	jars
+7
+D/opt/apache-spark/jars
+	hadoop-annotations-2.7.3.jar
+11
+D/opt/apache-spark
+	data
+5
+D/opt
+	apache-zeppelin
+2
+D/
+	opt
+10
+D/opt
+	apache-zeppelin
+2
+D/opt/apache-zeppelin
+	..
+0
+D/opt
+	apache-spark
+1
+D/opt/apache-spark
+	python
+10
+D/opt
+	apache-spark
+1
+D/
+	opt
+10
+D/opt
+	apache-spark
+1
+D/opt/apache-spark
+	jars
+7
+D/opt/apache-spark/jars
+	hadoop-annotations-2.7.3.jar
+11
+D/opt/apache-spark
+	data
+5
+D/opt/apache-spark/data
+	..
+0
+D/opt/apache-spark
+	data
+5
+D/opt
+	apache-spark
+1
+D/
+	opt
+10
+D/opt
+	apache-spark
+1
+D/
+	opt
+10
+D/opt
+	apache-zeppelin
+2
+D/opt/apache-zeppelin
+	local-repo
+3
+D/opt/apache-zeppelin/local-repo
+	..
+0
+D/opt/apache-zeppelin
+	notebook
+5
+D/opt/apache-zeppelin/notebook
+	..
+0
+D/opt/apache-zeppelin
+	run
+6
+D/opt/apache-zeppelin/run
+	..
+0
+D/opt/apache-zeppelin
+	run
+6
+D/opt
+	containerd
+5
+D/opt/containerd
+	..
+0
+D/opt
+	containerd
+5
+D/
+	opt
+10
+D/home/bane/builds/vpn/degterev-awsbi
+	..
+0
+D/home/bane
+	media
+9
+D/home/bane/media
+	ebooks
+2
+D/home/bane/media/ebooks
+	algos
+2
+D/home/bane/media
+	books
+1
+D/home/bane/media/books
+	book.pdf
+2
+D/home/bane/media
+	ebooks
+2
+D/home/bane/media/ebooks
+	algos
+2
+D/home/bane/projects/fun/dota_bets/backend
+	docker-compose.yaml
+5
+D/home/bane
+	projects
+10
+D/home/bane/projects
+	fun
+3
+D/home/bane/projects/fun
+	dota_bot
+2
+D/home/bane/projects/fun/dota_bot
+	docker-compose.yaml
+3
+D/home/bane/builds/vpn/degterev-awsbi
+	..
+0
+D/home/bane/builds/vpn
+	degterev-awsbi
+2
+D/home/bane/builds
+	vpn
+10
+D/home/bane
+	downloads
+6
+D/home/bane/downloads
+	docker-compose.yaml
+4
+D/home/bane
+	downloads
+6
+D/home/bane/projects/fun
+	swarmprom
+6
+D/home/bane/projects/fun/dota_bets
+	..
+0
+D/home/bane/projects/fun
+	dota_bot
+2
+D/home/bane/projects/fun/dota_bot
+	src
+2
+D/home/bane
+	downloads
+6
+D/home/bane/projects/fun/dota_bets
+	swarmpit
+2
+D/home/bane/projects/fun/dota_bets/swarmpit
+	.gitignore
+7
+D/home/bane
+	downloads
+6
+D/home/bane/downloads
+	docker-compose.yaml
+6
+D/home/bane
+	downloads
+6
+D/home/bane/builds/dwm
+	..
+0
+
+# Command line history (oldest to newest):
+:rmdir
+:mkdir devops
+:mkdir data
+:mkdir main
+:mkdir docker
+:mkdir legal
+:mkdir docker_
+:zi
+:movw
+:copy EtsyMainPage.scala
+:mkdir lazy_bins
+:mkdir ansible
+:mkdir fun
+:mkdir web
+:rename media
+:CP
+:rename notebook
+:mkdir logs
+:mkdir studies
+:mkdir laidback
+:mkdir uchi
+:mkdir arc-distro
+:rename zoom
+:mkdir tmp_git
+:rename convert_to_string.backup
+:vifm-trash
+:movre
+:mkdir julia
+:mkdir rust
+:mkdir spark
+:mkdir tmux
+:chmod +x
+:copy .zshrc .zshrcbp
+:copy .zshrcbp
+:cp
+:rename .zshrc
+:rename tmux.conf
+:mkd tour_starts
+:mkdir  vn
+:mkd id
+:mkd in
+:mkd cn
+:mkdir brazil
+:mkdir africa
+:rename af
+:rename tour_starts
+:mkdir az_test_assigns
+:mkdir az_tests_assigns
+:mkdir deps
+:mkdir tmp
+:mkdir partition
+:rename partition
+:rename partition.scala
+:mkdir jars
+:mkdir sparkSQL
+:mkdir sbt
+:moce
+:mkdir meta_storage2
+:rname etsy_parser
+:rename etsy_parser
+:move dg
+:move id
+:!tar -xvf geckodriver-v0.26.0-linux64.tar.gz
+:mkdir src
+:rename www.etsy.com
+:rename etsy.com
+:mkdir alasca
+:rename streams
+:q
+:renamce calc.c
+:rename calc.c
+:resume.pdf
+:rename resume.pdf
+:move
+:copy
+
+# Search history (oldest to newest):
+/git
+/.gi
+/.git
+/spark
+/.
+/ali
+/.ss
+/..aws
+/nv
+/jvm
+/jvh
+/н
+/airf
+/usr
+/node
+/spaek
+/.tmux
+/.pro
+/bloop
+/nvi
+/in
+/.co
+/.bash
+/9
+/_9.s
+/apach
+/zep
+/pro
+/fu
+/wine
+/resol
+/щ
+/res
+/.ssh
+/.confi
+/.con
+/.zp
+/.config
+/xpr
+/.conf
+
+# Prompt history (oldest to newest):
+pn
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/bane/projects/alasca/coffee_house/build.sbt
+""/home/bane/projects/alasca/coffee_house/lightbend.sbt
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/bane/.local/share/vifm/Trash/000_.xinitrc
+	/home/bane/.xinitrc
+t/home/bane/.local/share/vifm/Trash/000_wallpapers
+	/home/bane/builds/wallpapers
+t/home/bane/.local/share/vifm/Trash/000_wd719x-firmware
+	/home/bane/builds/wd719x-firmware
+t/home/bane/.local/share/vifm/Trash/000_aic94xx-firmware
+	/home/bane/builds/aic94xx-firmware
+t/home/bane/.local/share/vifm/Trash/000_media
+	/home/bane/media
+t/home/bane/.local/share/vifm/Trash/000_nvim
+	/home/bane/.local/share/nvim
