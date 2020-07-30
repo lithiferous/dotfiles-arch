@@ -5,6 +5,9 @@ filetype off                  " required
 call plug#begin('~/.config/nvim/plugged')
 
 "languages
+"go
+Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
+
 "julia
 Plug 'JuliaEditorSupport/julia-vim'
 
@@ -17,6 +20,7 @@ Plug 'Vimjas/vim-python-pep8-indent'                                " indentatio
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 " tools
+Plug 'junegunn/vim-easy-align'                                      " easy allign
 Plug 'kien/rainbow_parentheses.vim'                               	" for nested parentheses
 Plug 'tpope/vim-surround'                                         	" quickly edit surroundings (brackets, html tags, etc)
 Plug 'iamcco/markdown-preview.vim'                                  " markdown prev
@@ -165,7 +169,7 @@ endfunc
 xmap ga <Plug>(EasyAlign)
 
 " Start interactive EasyAlign for a motion/text object (e.g. gaip)
-nmap ga <Plug>(EasyAlign)
+nmap ga <Plug>(EasyAlign
 
 " Nerdtree
 map <C-a> :NERDTreeToggle<CR>
