@@ -3,7 +3,8 @@ filetype off                  " required
 
 " set the runtime path to include Vundle and initialize
 call plug#begin('~/.config/nvim/plugged')
-
+"startof me
+Plug 'junegunn/goyo.vim'
 "languages
 "go
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
@@ -108,6 +109,9 @@ set nowrapscan " Don't go back to first match after the last match is found.
 
 " Fuzzy finder shortcut
 nnoremap <leader>p :FZF<CR>
+
+" python clipboard
+"let g:python3_host_prog = '/usr/bin/python3'
 
 " airline: status bar at the bottom
 let g:airline_powerline_fonts=1

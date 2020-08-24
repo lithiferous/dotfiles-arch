@@ -16,3 +16,4 @@ inode/directory=file.desktop
 
 [Added Associations]
 application/pdf=firefox.desktop;org.pwmt.zathura-pdf-mupdf.desktop;
+text/x-c=nvim.desktop;

@@ -59,3 +59,4 @@ export AWT_TOOLKIT="MToolkit wmname LG3D"	#May have to install wmname
 
 # Switch escape and caps if tty and no passwd required:
 sudo -n loadkeys ${XDG_DATA_HOME:-$HOME/.config}/ttymaps.kmap 2>/dev/null
+source <(kubectl completion zsh)

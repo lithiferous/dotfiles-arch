@@ -12,11 +12,14 @@ alias ka="killall" \
 	magit="nvim -c MagitOnly" \
 	p="sudo pacman" \
  	pa="pacaur" \
+  mm="~/lazy_bins/Godot_v3.2.2-stable_x11.64" \
   ll="ls -al" \
   zz="sudo /home/bane/lazy_bins/ziggurat/bin/zeppelin-daemon.sh start" \
   zs="sudo /home/bane/lazy_bins/ziggurat/bin/zeppelin-daemon.sh stop" \
+  ss="/opt/apache-spark/bin/spark-shell --jars './spark/cudf-0.14-cuda10-2.jar,./spark/rapids-4-spark_2.12-0.1.0.jar' --conf spark.plugins=com.nvidia.spark.SQLPlugin --conf spark.rapids.sql.incompatibleOps.enabled=true"\
   id="/home/bane/lazy_bins/id/bin/idea.sh" \
   dg="/home/bane/lazy_bins/dg/bin/datagrip.sh" \
+  phl="/home/bane/lazy_bins/pharolauncher/pharo-launcher" \
   patches="nvim $HOME/projects/tmp/table_patches.dat" \
   awsi="cd $HOME/builds/vpn/aws && sudo openvpn degterev-awsuchi.ovpn" \
   uchi="cd $HOME/builds/vpn/uchi && sudo openvpn degterev-uchi.ovpn" \

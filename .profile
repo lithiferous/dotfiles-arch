@@ -27,6 +27,7 @@ export ALASCA="intellij-idea-ultimate"
 export TERMINAL="st"
 export VS='code'
 export _JAVA_AWT_WM_NONREPARENTING=1
+export CUDA_FORCE_PTX_JIT=1
 
 # ~/ Clean-up:
 export XDG_CONFIG_HOME="$HOME/.config"
